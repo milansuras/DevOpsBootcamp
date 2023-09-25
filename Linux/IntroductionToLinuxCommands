@@ -1,0 +1,16 @@
+# Essential commands of Linux and Used for day to day task
+
+1.man :- The man command is used to display manual page for various commands
+
+2.ls  :- To list the directory commands
+
+3.cd  :- Used to change the current working directory or navigate the directory
+
+4.pwd :- To know present working directory
+
+5.mkdir :- Used to create new directories,( mkdir -p "here p used to make parent directory")
+
+6.cat  :- Used to know the content in the file 
+
+7.touch :- Used to create file and empty files
+
